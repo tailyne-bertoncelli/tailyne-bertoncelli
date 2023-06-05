@@ -12,8 +12,9 @@
 ### Olá, bem vindos ao meu perfil
 
 - 🌱 Estudante de Engenharia de Sofware pelo Centro Universitário Descomplica Uniamérica 3/8 
-- 👩‍💻 Dev. Full Stack Jr.
+- 👩‍💻 Desenvolvedora Full Stack
 
+Apaixonada por tecnologia e sempre em busca de aprender sobre novas ferramentas e tecnologias. Estou aberta a parcerias e projetos que possam desafiar minhas habilidades e me permitir crescer como profissional. Vamos colaborar juntos e impulsionar a inovação!
 
 
 <br> 
@@ -25,5 +26,5 @@
 </div>
 
 
- 
+
 
